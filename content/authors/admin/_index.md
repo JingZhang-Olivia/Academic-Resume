@@ -19,7 +19,7 @@ role: Associate Professor (with Tenure)
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: School of Hotel and Tourism Management
-The Hong Kong Polytechnic University
+  - name: The Hong Kong Polytechnic University
     url: https://www.polyu.edu.hk/shtm/
 
 # Short bio (displayed in user profile at end of posts)
