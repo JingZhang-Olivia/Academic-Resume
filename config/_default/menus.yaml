@@ -11,7 +11,7 @@ main:
     url: '#featured'
     weight: 15
   - name: Grants
-    url: '#projects'
+    url: '#grants'
     weight: 35
   - name: Qualifications
     url: '#talks'
@@ -19,15 +19,16 @@ main:
   - name: Teaching Experience
     url: '#posts'
     weight: 55
-  - name: Service
-    url: '#posts'
+#  - name: Service
+#    url: '#posts'
+#    weight: 60
+lines below.
+  - name: CV
+    url: uploads/resume.pdf
     weight: 60
   - name: Contact
     url: '#contact'
     weight: 65
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
-  - name: CV
-    url: uploads/resume.pdf
-    weight: 70
+# To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the 

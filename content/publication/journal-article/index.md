@@ -2,9 +2,9 @@
 title: "Restaurant survival prediction using customer-generated content: An aspect-based sentiment analysis of online reviews"
 authors:
 - admin
-- Bruce, X. B
+- Bruce, X. B.
 - Li, G.
-- Gao, H
+- Gao, H.
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
