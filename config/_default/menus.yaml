@@ -10,7 +10,7 @@ main:
   - name: Publications
     url: '#featured'
     weight: 15
-  - name: Selected Grants
+  - name: Grants
     url: '#projects'
     weight: 35
   - name: Qualifications
