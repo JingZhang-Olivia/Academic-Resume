@@ -1,17 +1,17 @@
 ---
 title: "Restaurant survival prediction using customer-generated content: An aspect-based sentiment analysis of online reviews"
 authors:
-- admin
-- Bruce, X. B.
-- Li, G.
-- Gao, H.
+  - admin
+  - Bruce, X. B.
+  - Li, G.
+  - Gao, H.
 author_notes:
 # - "Equal contribution"
 # - "Equal contribution"
-- 
-- 
-- 
-- "Corresponding Author"
+  - 
+  - 
+  - 
+  - "Corresponding Author"
 date: "2023-01-01T00:00:00Z"
 doi: "https://doi.org/10.1016/j.tourman.2022.104714"
 
@@ -69,6 +69,75 @@ projects: []
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
+
+
+
+
+
+
+
+
+
+title: "The role of consumer-generated photos in hotel demand forecasting: an artificial intelligence approach"
+# Authors
+# If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
+# and it will be replaced with their full name and linked to their profile.
+authors:
+  - admin
+  - Xu, J.
+  - Zhang, J.
+  - Zhang, W.
+# Author notes (optional)
+author_notes:
+  - 'Corresponding Author'
+  - 'Corresponding Author'
+  - 'Corresponding Author'
+  - 'Corresponding Author'
+
+date: '2023-07-01T00:00:00Z'
+doi: ''
+
+# Schedule page publish date (NOT publication's date).
+# publishDate: '2017-01-01T00:00:00Z'
+
+# Publication type.
+# Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
+# 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
+# 7 = Thesis; 8 = Patent
+publication_types: ['1']
+
+# Publication name and optional abbreviated publication name.
+publication: In *Asia Pacific Tourism Association Annual Conference*
+publication_short: In *APTA*
+
+# abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+
+# Summary. An optional shortened abstract.
+# summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+
+tags:
+ - Source Themes
+featured: false
+
+# Display this page in the Featured widget?
+# featured: false
+
+# Custom links (uncomment lines below)
+# links:
+# - name: Custom Link
+#   url: http://example.org
+
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+
+
+
 ---
 
 {{% callout note %}}
