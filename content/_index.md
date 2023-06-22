@@ -70,29 +70,13 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
+      columns: '3'
       view: citation
-
-  - block: collection
-    content:
-      title: Recent Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
-
 
   - block: collection
     id: grants
     content:
-      title: Recent Publications
+      title: Selected Grants
       text: |-
         {{% callout note %}}
         Quickly discover relevant content by [filtering publications](./publication/).
@@ -107,7 +91,7 @@ sections:
 
 #  - block: experience
 #    content:
-#      title: Experience
+#      title: Qualifications
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
@@ -183,7 +167,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent Posts
+      title: Qualifications
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -214,7 +198,7 @@ sections:
   - block: collection
     id: talks
     content:
-      title: Recent & Upcoming Talks
+      title: Teaching Experience
       filters:
         folders:
           - event
