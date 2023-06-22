@@ -1,5 +1,5 @@
 ---
-title: 'The role of consumer*-generated photos in hotel demand forecasting*: an artificial intelligence approach'
+title: "The role of consumer-generated photos in hotel demand forecasting: an artificial intelligence approach"
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
@@ -7,7 +7,7 @@ authors:
   - admin
   - Xu, J.
   - Zhang, J.
-  - Zhang, W
+  - Zhang, W.
 # Author notes (optional)
 author_notes:
   - 'Corresponding Author'
@@ -76,7 +76,7 @@ url_video: ''
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 # slides: example
-# ---
+---
 
 {{% callout note %}}
 Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
