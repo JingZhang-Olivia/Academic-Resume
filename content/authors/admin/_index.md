@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Neil Li 李恒云
+title: Neil Hengyun Li 李恒云
 
 # Full name (for SEO)
-first_name: Neil
+first_name: Neil Hengyun
 last_name: Li
 
 # Status emoji
@@ -18,30 +18,29 @@ role: Associate Professor (with Tenure)
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Hotel and Tourism Management
-  - name: The Hong Kong Polytechnic University
-    url: https://www.polyu.edu.hk/shtm/
+    - name: The Hong Kong Polytechnic University
+    url: https://www.polyu.edu.hk/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include Electronic word-of-mouth & E-Commerce, Big data tourism demand forecasting, Business intelligence & machine learning and AI application & Consumer psychology.
 
 # Interests to show in About widget
 interests:
-  - Electronic word-of-mouth & E-Commerce
-  - Big data tourism demand forecasting
-  - Business intelligence & machine learning
-  - AI application & Consumer psychology
+  - E-Commerce
+  - Big data forecasting
+  - Business intelligence & AI
+  - Consumer psychology
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in ***
+    - course: PhD in Hospitality Management
       institution: University of South Carolina, USA
       year: 2018
-    - course: MSc in ***
+    - course: MSc in Business Administration
       institution: Dongbei University of Finance and Economics, China
       year: 2012
-    - course: BA in ***
+    - course: BA in Business Administration
       institution: Dongbei University of Finance and Economics, China
       year: 2010
 
@@ -53,21 +52,14 @@ social:
   - icon: envelope
     icon_pack: fas
     link: 'mailto:neilhengyun.li@polyu.edu.hk'
-  - icon: twitter
-    icon_pack: fab
-#    link: https://twitter.com/GeorgeCushen
-    label: Follow me on Twitter
-    display:
-      header: true
+
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.co.uk/citations?user=Hengyun Neil Li
-  - icon: github
-    icon_pack: fab
-#    link: https://github.com/gcushen
+
   - icon: linkedin
     icon_pack: fab
-#    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/neil-hengyun-li-036499114/
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
