@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Neil Hengyun Li 李恒云
+title: Neil Li 李恒云
 
 # Full name (for SEO)
-first_name: Neil Hengyun
+first_name: Neil
 last_name: Li
 
 # Status emoji
