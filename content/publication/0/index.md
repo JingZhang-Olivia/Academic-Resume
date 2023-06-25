@@ -37,10 +37,9 @@ featured: false
 
 # links:
 # - name: ""
-url: ""
-url_pdf: https://doi.org/10.1016/j.tourman.2022.104714
-link: 0/TM.pdf
-url_video: ''
+url_pdf: "0/TM.pdf"
+# url_pdf: https://doi.org/10.1016/j.tourman.2022.104714
+# url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
