@@ -85,7 +85,7 @@ sections:
 #      columns: '2'
 #      view: compact
 
-    - block: collection
+  - block: collection
     id: teaching
     content:
       title: Teaching Experience
