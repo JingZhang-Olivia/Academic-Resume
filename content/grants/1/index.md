@@ -1,6 +1,6 @@
 ---
 title: SHTM Interdisciplinary Large Grant, Hong Kong Polytechnic University
-subtitle: Towards Business Sustainability and Resilience: Risk Modelling and Survival Prediction of Tourism MSMEs based on Multi-source and Multimodal Big Data Fusion.
+subtitle: "Towards Business Sustainability and Resilience: Risk Modelling and Survival Prediction of Tourism MSMEs based on Multi-source and Multimodal Big Data Fusion."
 
 # Summary for listings and search engines
 summary: Towards Business Sustainability and Resilience: Risk Modelling and Survival Prediction of Tourism MSMEs based on Multi-source and Multimodal Big Data Fusion.
