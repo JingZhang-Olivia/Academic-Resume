@@ -23,7 +23,7 @@ sections:
       filters:
         folders:
           - publication
-#        exclude_featured: true
+        exclude_featured: true
     design:
       columns: '2'
       view: citation
@@ -43,7 +43,7 @@ sections:
   - block: experience
     id: service
     content:
-      title: service and awards
+      title: Service and Awards
       # Date format for experience
       #   Refer to https://wowchemy.com/docs/customization/#date-format
       date_format: Jan 2006
