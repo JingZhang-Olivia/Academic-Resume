@@ -24,7 +24,7 @@ publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Tourism Management, 96*(104707)"
-publication_short: "TM"
+# publication_short: "TM"
 
 abstract: Business failure prediction or survival analysis can assist corporate organizations in better understanding their performance and improving decision making. Based on aspect-based sentiment analysis (ABSA), this study investigates the effect of customer-generated content (i.e., online reviews) in predicting restaurant survival using datasets for restaurants in two world famous tourism destinations in the United States. ABSA divides the overall review sentiment of each online review into five categories, namely location, tastiness, price, service, and atmosphere. By employing the machine learning–based conditional survival forest model, empirical results show that compared with overall review sentiment, aspect-based sentiment for various factors can improve the prediction performance of restaurant survival. Based on feature importance analysis, this study also highlights the effects of different types of aspect sentiment on restaurant survival prediction to identify which features of online reviews are optimal indicators of restaurant survival. 
 
@@ -39,7 +39,7 @@ featured: false
 # - name: ""
 #   url: ""
 # url_pdf: https://doi.org/10.1016/j.tourman.2022.104714
-url_pdf: ''
+url_pdf: 'TM.pdf'
 url_video: ''
 
 # Featured image
@@ -64,12 +64,3 @@ image:
 # slides: example
 ---
 
-# {{% callout note %}}
-# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their # reference management software.
-# {{% /callout %}}
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-@ Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
