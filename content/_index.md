@@ -32,18 +32,18 @@ sections:
     id: publications
     content:
       title: Recent Publications
-      subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
+      text: |-
+        {{% callout note %}}
+        Quickly discover relevant content by [filtering publications](./publication/).
+        {{% /callout %}}
       # Filter on criteria
       filters:
         folders: 
           - publication
+        exclude_featured: true
     design:
-      # Choose a layout view
-      view: compact
       columns: '2'
+      view: citation
 
   - block: collection
     id: grants
