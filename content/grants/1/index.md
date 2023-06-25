@@ -6,7 +6,7 @@ subtitle: "Towards Business Sustainability and Resilience: Risk Modelling and Su
 summary: "Towards Business Sustainability and Resilience: Risk Modelling and Survival Prediction of Tourism MSMEs based on Multi-source and Multimodal Big Data Fusion."
 
 # Link this post with a project
-projects: []
+# projects: []
 
 # Date published
 date: '2023-01-01T00:00:00Z'
