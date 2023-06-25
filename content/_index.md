@@ -38,8 +38,8 @@ sections:
       count: 5
       # Filter on criteria
       filters:
-        folders:
-          - grants
+        folders: 
+          - publication
     design:
       # Choose a layout view
       view: compact
