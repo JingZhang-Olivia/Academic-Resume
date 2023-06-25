@@ -25,15 +25,15 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '1'
+      columns: '2'
       view: citation
 
   - block: collection
     id: grants
     content:
       title: Selected Grants
-      subtitle: ''
-      text: ''
+      subtitle: 'subtitle'
+      text: '****'
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
