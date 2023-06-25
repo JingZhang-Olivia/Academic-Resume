@@ -37,7 +37,7 @@ featured: false
 
 # links:
 # - name: ""
-url_pdf: "0/TM.pdf"
+url_pdf: 0/TM.pdf
 # url_pdf: https://doi.org/10.1016/j.tourman.2022.104714
 # url_video: ''
 
