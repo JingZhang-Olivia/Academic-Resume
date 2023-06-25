@@ -42,8 +42,9 @@ sections:
           - publication
         exclude_featured: true
     design:
-      columns: '2'
       view: citation
+      columns: '2'
+
 
   - block: collection
     id: grants
