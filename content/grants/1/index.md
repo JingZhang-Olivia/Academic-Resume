@@ -24,8 +24,8 @@ featured: false
 
 authors:
   - admin
-  - Role: PI
-  - Amount awarded: HK$ 1,620,645
+  - "Role: PI"
+  - "Amount awarded: HK$ 1,620,645"
 
 
 ---
