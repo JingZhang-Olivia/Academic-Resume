@@ -42,7 +42,7 @@ sections:
           - publication
         exclude_featured: true
     design:
-      view: citation
+      view: compact
       columns: '2'
 
 
