@@ -38,7 +38,8 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://doi.org/10.1016/j.tourman.2022.104714
+# url_pdf: https://doi.org/10.1016/j.tourman.2022.104714
+url_pdf: ''
 url_video: ''
 
 # Featured image
@@ -63,9 +64,9 @@ image:
 # slides: example
 ---
 
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
+# {{% callout note %}}
+# Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their # reference management software.
+# {{% /callout %}}
 
 {{% callout note %}}
 Create your slides in Markdown - click the *Slides* button to check out the example.
