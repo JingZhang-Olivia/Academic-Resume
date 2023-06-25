@@ -116,7 +116,7 @@ sections:
   - block: collection
     id: team
     content:
-      title: Qualifications
+      title: Team Members
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -148,11 +148,20 @@ sections:
       title: Contact
       subtitle:
       text: |-
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam mi diam, venenatis ut magna et, vehicula efficitur enim.
+       Feel free to contact me.
       # Contact (add or remove contact options as necessary)
       email: neilhengyun.li@polyu.edu.hk
       phone: +852 3400 2167
-      # Automatically link email and phone or display as text?    
+      # Automatically link email and phone or display as text?
+      autolink: true
+      # Email form provider
+      form:
+        provider: netlify
+        formspree:
+          id:
+        netlify:
+          # Enable CAPTCHA challenge to reduce spam?
+          captcha: false 
     design:
       columns: '2'
 ---
