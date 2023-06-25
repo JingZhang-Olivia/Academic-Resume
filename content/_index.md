@@ -29,6 +29,23 @@ sections:
       view: citation
 
   - block: collection
+    id: publications
+    content:
+      title: Recent Publications
+      subtitle: ''
+      text: ''
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        folders:
+          - grants
+    design:
+      # Choose a layout view
+      view: compact
+      columns: '2'
+
+  - block: collection
     id: grants
     content:
       title: Selected Grants
