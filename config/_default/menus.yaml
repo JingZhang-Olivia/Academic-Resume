@@ -13,13 +13,13 @@ main:
   - name: Grants
     url: '#grants'
     weight: 35
-  - name: service and awards
+  - name: Service and Awards
     url: '#service'
     weight: 40
   - name: Teaching Experience
     url: '#teaching'
     weight: 55
-  - name: team members
+  - name: Team Members
     url: '#team'
     weight: 60
   - name: CV
