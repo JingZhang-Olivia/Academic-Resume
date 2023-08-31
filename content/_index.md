@@ -103,7 +103,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - teaching_experience
         author: ""
         category: ""
         tag: ""
@@ -131,7 +131,7 @@ sections:
       # Filter on criteria
       filters:
         folders:
-          - post
+          - team
         author: ""
         category: ""
         tag: ""
